@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-**Desenvolvedor Fullstack**, um **apaixonado** por tecnologia e **viciado** em descobrir como as coisas funcionam, melhorar, contribuir e solucionar problemas para que possamos sempre ter deixado algo melhor e *honrar os gigantes do passado nos quais subimos em seus ombros para vermos mais longe.* 
+**Desenvolvedor Fullstack**, um **apaixonado** por tecnologia e **viciado** em descobrir como as coisas funcionam, melhorar, contribuir e solucionar problemas para que possamos sempre ter deixado algo melhor e honrar os gigantes do passado nos quais nos inspiramos
 
 Me dedico a trilhar meu caminho na tecnologia, sempre aprendendo, contribuindo e me realizando como profissional. 
 
